@@ -1,6 +1,6 @@
 ---
 title: "WUP_04"
-author: "Hannah bui Vong"
+author: "Hannah b Vong"
 date: "fall 2023"
 output:
   html_document:
